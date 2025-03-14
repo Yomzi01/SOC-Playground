@@ -1,4 +1,4 @@
-# 🛡️ Cyber-Fortnight: SOC Analyst Portfolio  
+# 🛡️SOC-Playground: SOC Analyst Portfolio  
 
 👋 Welcome to my **SOC Analyst portfolio**!  
 This repository showcases my **cybersecurity skills in log analysis, network traffic investigation, and threat detection**.  
