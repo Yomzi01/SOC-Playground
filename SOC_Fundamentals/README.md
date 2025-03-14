@@ -18,11 +18,11 @@ The **SOC Fundamentals** room on TryHackMe covers the basics of Security Operati
 ### 🔹SOC Level 1 Exercise: Analyzing Port Scanning Activity  
 - **Objective: Investigated a port scanning alert within a SOC environment.  
 - **Findings:
-What: Port scan activity detected.
-When: June 12, 2024, 17:24.
-Where: Destination host IP - 10.0.0.3.
-Who: Source host - Nessus.
-Why: Intended scanning activity by the Vulnerability Assessment Team.
+What?: Port scan activity detected.
+When?: June 12, 2024, 17:24.
+Where?: Destination host IP - 10.0.0.3.
+Who?: Source host - Nessus.
+Why?: Intended scanning activity by the Vulnerability Assessment Team.
 Response: The destination host responded to the scanner IP (yea).
 Flag Discovered: THM{000_INTRO_TO_SOC}.
 ## 🚀 Next Steps  
