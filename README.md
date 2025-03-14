@@ -10,6 +10,7 @@ This portfolio contains **real-world cybersecurity projects** using tools like *
 ## 📌 Projects  
 Here are some of the key security analysis projects I have worked on:  
 
+- [🛡️ SOC Fundamentals](SOC_Fundamentals/README.md) – Learnings from TryHackMe SOC Fundamentals
 ### 🛡️ Windows Event Log Analysis  
 - **Objective:** Investigate Windows Event Logs for failed logins, suspicious PowerShell activity, and malware execution.  
 - **Tools Used:** Windows Event Viewer  
